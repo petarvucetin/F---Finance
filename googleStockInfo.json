@@ -1,0 +1,971 @@
+
+[
+{
+"symbol" : "AAP",
+"exchange" : "NYSE",
+"id": "668575",
+"t" : "AAP",
+"e" : "NYSE",
+"name" : "Advance Auto Parts, Inc."
+, "f_reuters_url" : "http:\x2F\x2Fstocks.us.reuters.com\x2Fstocks\x2Fratios.asp?rpc=66\x26symbol=AAP",
+"f_recent_quarter_date" : "Q1 (Jan \x2716)",
+"f_annual_date" : "2016",
+"f_ttm_date" : "2015",
+"financials" :
+[{
+"f_type" : "Income\x26nbsp\x3BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=NYSE:AAP"
+,"f_figures" :
+[
+{
+"title" : ""
+,"recent_quarter" : "2,033.55"
+,"annual" : "9,737.02"
+,"ttm" : "9,843.86"
+},
+{
+"title" : ""
+,"recent_quarter" : "-"
+,"annual" : "-"
+,"ttm" : "-"
+},
+{
+"title" : ""
+,"recent_quarter" : "2,033.55"
+,"annual" : "9,737.02"
+,"ttm" : "9,843.86"
+},
+{
+"title" : ""
+,"recent_quarter" : "1,124.37"
+,"annual" : "5,314.25"
+,"ttm" : "5,390.25"
+},
+{
+"title" : ""
+,"recent_quarter" : "909.17"
+,"annual" : "4,422.77"
+,"ttm" : "4,453.61"
+},
+{
+"title" : ""
+,"recent_quarter" : "808.49"
+,"annual" : "3,596.99"
+,"ttm" : "3,601.90"
+},
+{
+"title" : ""
+,"recent_quarter" : "-"
+,"annual" : "-"
+,"ttm" : "-"
+},
+{
+"title" : ""
+,"recent_quarter" : "-"
+,"annual" : "-"
+,"ttm" : "-"
+},
+{
+"title" : ""
+,"recent_quarter" : "-"
+,"annual" : "-"
+,"ttm" : "-"
+},
+{
+"title" : ""
+,"recent_quarter" : "-"
+,"annual" : "-"
+,"ttm" : "-"
+},
+{
+"title" : ""
+,"recent_quarter" : "-"
+,"annual" : "-"
+,"ttm" : "-"
+},
+{
+"title" : ""
+,"recent_quarter" : "1,932.87"
+,"annual" : "8,911.24"
+,"ttm" : "8,992.15"
+},
+{
+"title" : ""
+,"recent_quarter" : "100.68"
+,"annual" : "825.78"
+,"ttm" : "851.71"
+},
+{
+"title" : ""
+,"recent_quarter" : "-"
+,"annual" : "-"
+,"ttm" : "-"
+},
+{
+"title" : ""
+,"recent_quarter" : "-"
+,"annual" : "-"
+,"ttm" : "-"
+},
+{
+"title" : ""
+,"recent_quarter" : "-3.04"
+,"annual" : "-7.48"
+,"ttm" : "3.09"
+},
+{
+"title" : ""
+,"recent_quarter" : "83.83"
+,"annual" : "752.89"
+,"ttm" : "781.39"
+},
+{
+"title" : ""
+,"recent_quarter" : "54.82"
+,"annual" : "473.40"
+,"ttm" : "493.82"
+},
+{
+"title" : ""
+,"recent_quarter" : "-"
+,"annual" : "-"
+,"ttm" : "-"
+},
+{
+"title" : ""
+,"recent_quarter" : "-"
+,"annual" : "-"
+,"ttm" : "-"
+},
+{
+"title" : ""
+,"recent_quarter" : "54.82"
+,"annual" : "473.40"
+,"ttm" : "493.82"
+},
+{
+"title" : ""
+,"recent_quarter" : "-"
+,"annual" : "-"
+,"ttm" : "-"
+},
+{
+"title" : ""
+,"recent_quarter" : "-"
+,"annual" : "-"
+,"ttm" : "-"
+},
+{
+"title" : ""
+,"recent_quarter" : "-"
+,"annual" : "-"
+,"ttm" : "-"
+},
+{
+"title" : ""
+,"recent_quarter" : "54.82"
+,"annual" : "473.40"
+,"ttm" : "493.82"
+},
+{
+"title" : ""
+,"recent_quarter" : "-"
+,"annual" : "-"
+,"ttm" : "-"
+},
+{
+"title" : ""
+,"recent_quarter" : "54.67"
+,"annual" : "471.75"
+,"ttm" : "492.27"
+},
+{
+"title" : ""
+,"recent_quarter" : "54.67"
+,"annual" : "471.75"
+,"ttm" : "492.27"
+},
+{
+"title" : ""
+,"recent_quarter" : "-"
+,"annual" : "-"
+,"ttm" : "-"
+},
+{
+"title" : ""
+,"recent_quarter" : "-"
+,"annual" : "-"
+,"ttm" : "-"
+},
+{
+"title" : ""
+,"recent_quarter" : "-"
+,"annual" : "-"
+,"ttm" : "-"
+},
+{
+"title" : ""
+,"recent_quarter" : "-"
+,"annual" : "-"
+,"ttm" : "-"
+},
+{
+"title" : ""
+,"recent_quarter" : "73.85"
+,"annual" : "73.73"
+,"ttm" : "73.41"
+},
+{
+"title" : ""
+,"recent_quarter" : "0.74"
+,"annual" : "6.40"
+,"ttm" : "6.71"
+},
+{
+"title" : ""
+,"recent_quarter" : "-"
+,"annual" : "-"
+,"ttm" : "-"
+},
+{
+"title" : ""
+,"recent_quarter" : "0.06"
+,"annual" : "0.24"
+,"ttm" : "0.24"
+},
+{
+"title" : ""
+,"recent_quarter" : "-"
+,"annual" : "-"
+,"ttm" : "-"
+},
+{
+"title" : ""
+,"recent_quarter" : "-"
+,"annual" : "-"
+,"ttm" : "-"
+},
+{
+"title" : ""
+,"recent_quarter" : "-"
+,"annual" : "-"
+,"ttm" : "-"
+},
+{
+"title" : ""
+,"recent_quarter" : "-"
+,"annual" : "-"
+,"ttm" : "-"
+},
+{
+"title" : ""
+,"recent_quarter" : "-"
+,"annual" : "-"
+,"ttm" : "-"
+},
+{
+"title" : ""
+,"recent_quarter" : "-"
+,"annual" : "-"
+,"ttm" : "-"
+},
+{
+"title" : ""
+,"recent_quarter" : "-"
+,"annual" : "-"
+,"ttm" : "-"
+},
+{
+"title" : ""
+,"recent_quarter" : "-"
+,"annual" : "-"
+,"ttm" : "-"
+},
+{
+"title" : ""
+,"recent_quarter" : "-"
+,"annual" : "-"
+,"ttm" : "-"
+},
+{
+"title" : ""
+,"recent_quarter" : "-"
+,"annual" : "-"
+,"ttm" : "-"
+},
+{
+"title" : ""
+,"recent_quarter" : "-"
+,"annual" : "-"
+,"ttm" : "-"
+},
+{
+"title" : ""
+,"recent_quarter" : "-"
+,"annual" : "-"
+,"ttm" : "-"
+},
+{
+"title" : ""
+,"recent_quarter" : "0.74"
+,"annual" : "6.40"
+,"ttm" : "6.71"
+}
+]
+},
+{
+"f_type" : "Balance\x26nbsp\x3BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=NYSE:AAP"
+,"f_figures" :
+[
+{
+"title" : ""
+,"recent_quarter" : "90.78"
+,"annual" : "90.78"
+,"ttm" : "104.67"
+},
+{
+"title" : ""
+,"recent_quarter" : "-"
+,"annual" : "-"
+,"ttm" : "-"
+},
+{
+"title" : ""
+,"recent_quarter" : "90.78"
+,"annual" : "90.78"
+,"ttm" : "104.67"
+},
+{
+"title" : ""
+,"recent_quarter" : "583.57"
+,"annual" : "583.57"
+,"ttm" : "567.25"
+},
+{
+"title" : ""
+,"recent_quarter" : "-"
+,"annual" : "-"
+,"ttm" : "-"
+},
+{
+"title" : ""
+,"recent_quarter" : "597.79"
+,"annual" : "597.79"
+,"ttm" : "579.83"
+},
+{
+"title" : ""
+,"recent_quarter" : "4,174.77"
+,"annual" : "4,174.77"
+,"ttm" : "3,936.95"
+},
+{
+"title" : ""
+,"recent_quarter" : "-"
+,"annual" : "-"
+,"ttm" : "-"
+},
+{
+"title" : ""
+,"recent_quarter" : "77.41"
+,"annual" : "77.41"
+,"ttm" : "119.59"
+},
+{
+"title" : ""
+,"recent_quarter" : "4,940.75"
+,"annual" : "4,940.75"
+,"ttm" : "4,741.04"
+},
+{
+"title" : ""
+,"recent_quarter" : "2,924.34"
+,"annual" : "2,924.34"
+,"ttm" : "2,804.39"
+},
+{
+"title" : ""
+,"recent_quarter" : "-1,489.77"
+,"annual" : "-1,489.77"
+,"ttm" : "-1,372.36"
+},
+{
+"title" : ""
+,"recent_quarter" : "989.48"
+,"annual" : "989.48"
+,"ttm" : "995.43"
+},
+{
+"title" : ""
+,"recent_quarter" : "687.12"
+,"annual" : "687.12"
+,"ttm" : "748.12"
+},
+{
+"title" : ""
+,"recent_quarter" : "-"
+,"annual" : "-"
+,"ttm" : "-"
+},
+{
+"title" : ""
+,"recent_quarter" : "82.63"
+,"annual" : "82.63"
+,"ttm" : "45.74"
+},
+{
+"title" : ""
+,"recent_quarter" : "8,134.56"
+,"annual" : "8,134.56"
+,"ttm" : "7,962.36"
+},
+{
+"title" : ""
+,"recent_quarter" : "3,203.92"
+,"annual" : "3,203.92"
+,"ttm" : "3,095.36"
+},
+{
+"title" : ""
+,"recent_quarter" : "553.16"
+,"annual" : "457.06"
+,"ttm" : "433.20"
+},
+{
+"title" : ""
+,"recent_quarter" : "0.00"
+,"annual" : "0.00"
+,"ttm" : "0.00"
+},
+{
+"title" : ""
+,"recent_quarter" : "0.60"
+,"annual" : "0.60"
+,"ttm" : "0.58"
+},
+{
+"title" : ""
+,"recent_quarter" : "39.79"
+,"annual" : "135.89"
+,"ttm" : "125.27"
+},
+{
+"title" : ""
+,"recent_quarter" : "3,797.48"
+,"annual" : "3,797.48"
+,"ttm" : "3,654.42"
+},
+{
+"title" : ""
+,"recent_quarter" : "1,213.16"
+,"annual" : "1,213.16"
+,"ttm" : "1,636.31"
+},
+{
+"title" : ""
+,"recent_quarter" : "-"
+,"annual" : "-"
+,"ttm" : "-"
+},
+{
+"title" : ""
+,"recent_quarter" : "1,213.16"
+,"annual" : "1,213.16"
+,"ttm" : "1,636.31"
+},
+{
+"title" : ""
+,"recent_quarter" : "1,213.76"
+,"annual" : "1,213.76"
+,"ttm" : "1,636.89"
+},
+{
+"title" : ""
+,"recent_quarter" : "433.93"
+,"annual" : "433.93"
+,"ttm" : "446.35"
+},
+{
+"title" : ""
+,"recent_quarter" : "-"
+,"annual" : "-"
+,"ttm" : "-"
+},
+{
+"title" : ""
+,"recent_quarter" : "229.35"
+,"annual" : "229.35"
+,"ttm" : "222.37"
+},
+{
+"title" : ""
+,"recent_quarter" : "5,673.92"
+,"annual" : "5,673.92"
+,"ttm" : "5,959.45"
+},
+{
+"title" : ""
+,"recent_quarter" : "-"
+,"annual" : "-"
+,"ttm" : "-"
+},
+{
+"title" : ""
+,"recent_quarter" : "0.00"
+,"annual" : "0.00"
+,"ttm" : "0.00"
+},
+{
+"title" : ""
+,"recent_quarter" : "0.01"
+,"annual" : "0.01"
+,"ttm" : "0.01"
+},
+{
+"title" : ""
+,"recent_quarter" : "603.33"
+,"annual" : "603.33"
+,"ttm" : "562.95"
+},
+{
+"title" : ""
+,"recent_quarter" : "2,021.08"
+,"annual" : "2,021.08"
+,"ttm" : "1,565.34"
+},
+{
+"title" : ""
+,"recent_quarter" : "-119.71"
+,"annual" : "-119.71"
+,"ttm" : "-113.04"
+},
+{
+"title" : ""
+,"recent_quarter" : "-44.06"
+,"annual" : "-44.06"
+,"ttm" : "-12.34"
+},
+{
+"title" : ""
+,"recent_quarter" : "2,460.65"
+,"annual" : "2,460.65"
+,"ttm" : "2,002.91"
+},
+{
+"title" : ""
+,"recent_quarter" : "8,134.56"
+,"annual" : "8,134.56"
+,"ttm" : "7,962.36"
+},
+{
+"title" : ""
+,"recent_quarter" : "-"
+,"annual" : "-"
+,"ttm" : "-"
+},
+{
+"title" : ""
+,"recent_quarter" : "73.31"
+,"annual" : "73.31"
+,"ttm" : "73.07"
+}
+]
+},
+{
+"f_type" : "Cash\x26nbsp\x3BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=NYSE:AAP"
+,"f_figures" :
+[
+{
+"title" : ""
+,"recent_quarter" : "473.40"
+,"annual" : "473.40"
+,"ttm" : "493.82"
+},
+{
+"title" : ""
+,"recent_quarter" : "269.48"
+,"annual" : "269.48"
+,"ttm" : "284.69"
+},
+{
+"title" : ""
+,"recent_quarter" : "-"
+,"annual" : "-"
+,"ttm" : "-"
+},
+{
+"title" : ""
+,"recent_quarter" : "-9.22"
+,"annual" : "-9.22"
+,"ttm" : "48.47"
+},
+{
+"title" : ""
+,"recent_quarter" : "39.47"
+,"annual" : "39.47"
+,"ttm" : "27.13"
+},
+{
+"title" : ""
+,"recent_quarter" : "-83.48"
+,"annual" : "-83.48"
+,"ttm" : "-145.12"
+},
+{
+"title" : ""
+,"recent_quarter" : "689.64"
+,"annual" : "689.64"
+,"ttm" : "708.99"
+},
+{
+"title" : ""
+,"recent_quarter" : "-234.75"
+,"annual" : "-234.75"
+,"ttm" : "-228.45"
+},
+{
+"title" : ""
+,"recent_quarter" : "-18.62"
+,"annual" : "-18.62"
+,"ttm" : "-2,059.79"
+},
+{
+"title" : ""
+,"recent_quarter" : "-253.37"
+,"annual" : "-253.37"
+,"ttm" : "-2,288.24"
+},
+{
+"title" : ""
+,"recent_quarter" : "-0.49"
+,"annual" : "-0.49"
+,"ttm" : "-7.55"
+},
+{
+"title" : ""
+,"recent_quarter" : "-17.65"
+,"annual" : "-17.65"
+,"ttm" : "-17.58"
+},
+{
+"title" : ""
+,"recent_quarter" : "-1.49"
+,"annual" : "-1.49"
+,"ttm" : "1.42"
+},
+{
+"title" : ""
+,"recent_quarter" : "-426.32"
+,"annual" : "-426.32"
+,"ttm" : "599.62"
+},
+{
+"title" : ""
+,"recent_quarter" : "-445.95"
+,"annual" : "-445.95"
+,"ttm" : "575.91"
+},
+{
+"title" : ""
+,"recent_quarter" : "-4.21"
+,"annual" : "-4.21"
+,"ttm" : "-4.46"
+},
+{
+"title" : ""
+,"recent_quarter" : "-13.89"
+,"annual" : "-13.89"
+,"ttm" : "-1,007.80"
+},
+{
+"title" : ""
+,"recent_quarter" : "62.37"
+,"annual" : "62.37"
+,"ttm" : "71.11"
+},
+{
+"title" : ""
+,"recent_quarter" : "254.41"
+,"annual" : "254.41"
+,"ttm" : "268.62"
+}
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Jan \x2716)",
+"kr_annual_date" : "2016",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "2.70%",
+"annual" : "4.86%",
+"ttm" : "4.86%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "4.95%",
+"annual" : "8.48%",
+"ttm" : "8.48%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "11.32%",
+"ttm" : "11.25%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "2.92%",
+"annual" : "5.88%",
+"ttm" : "5.88%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "9.75%",
+"annual" : "21.14%",
+"ttm" : "21.14%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "40,000",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+0.25",
+"l" : "161.19",
+"cp" : "0.16",
+"ccol" : "chg",
+"op" : "161.02",
+"hi" : "162.02",
+"lo" : "160.02",
+"vo" : "411,388.00",
+"avvo" : "693,351.00",
+"hi52" : "201.24",
+"lo52" : "131.59",
+"mc" : "11.85B",
+"pe" : "25.19",
+"fwpe" : "",
+"beta" : "0.88",
+"eps" : "6.40",
+"dy" : "0.15",
+"ldiv" : "0.06",
+"shares" : "73.54M",
+"instown" : "99%",
+"eo":""
+, "sid" : "us-TRBC:53",
+"sname" : "Cyclical Consumer Goods \x26 Services",
+"iid" : "us-TRBC:5340301014",
+"iname" : "Automotive Parts \x26 Accessories Retailers"
+, "related" : [
+{
+"id" : "668575",
+"name" : "Advance Auto Parts, Inc.",
+"t" : "AAP",
+"e" : "NYSE",
+"l" : "161.19",
+"c" : "+0.25",
+"mc" : "11.85B",
+"cp" : "0.16",
+"ccol" : "chg"
+}
+,
+{
+"id" : "27000",
+"name" : "Pep Boys - Manny Moe \x26 Jack",
+"t" : "PBY",
+"e" : "NYSE",
+"l" : "18.50",
+"c" : "",
+"mc" : "1.00B",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "656422",
+"name" : "O\x27Reilly Automotive Inc",
+"t" : "ORLY",
+"e" : "NASDAQ",
+"l" : "268.75",
+"c" : "-1.04",
+"mc" : "26.12B",
+"cp" : "-0.39",
+"ccol" : "chr"
+}
+,
+{
+"id" : "11020385",
+"name" : "AutoZone, Inc.",
+"t" : "AZO",
+"e" : "NYSE",
+"l" : "779.78",
+"c" : "+1.64",
+"mc" : "23.30B",
+"cp" : "0.21",
+"ccol" : "chg"
+}
+,
+{
+"id" : "711072",
+"name" : "U.S. Auto Parts Network, Inc.",
+"t" : "PRTS",
+"e" : "NASDAQ",
+"l" : "3.08",
+"c" : "-0.05",
+"mc" : "107.33M",
+"cp" : "-1.60",
+"ccol" : "chr"
+}
+,
+{
+"id" : "14357",
+"name" : "Genuine Parts Company",
+"t" : "GPC",
+"e" : "NYSE",
+"l" : "99.40",
+"c" : "+0.98",
+"mc" : "14.73B",
+"cp" : "1.00",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12621692",
+"name" : "UNI-SELECT INC COM NPV",
+"t" : "UNIEF",
+"e" : "OTCMKTS",
+"l" : "41.81",
+"c" : "0.00",
+"mc" : "890.40M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "1161",
+"name" : "Icahn Enterprises LP",
+"t" : "IEP",
+"e" : "NASDAQ",
+"l" : "61.32",
+"c" : "-0.45",
+"mc" : "8.00B",
+"cp" : "-0.73",
+"ccol" : "chr"
+}
+,
+{
+"id" : "662218",
+"name" : "MarineMax Inc",
+"t" : "HZO",
+"e" : "NYSE",
+"l" : "17.70",
+"c" : "+0.02",
+"mc" : "454.77M",
+"cp" : "0.11",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7169259",
+"name" : "D\x27IETEREN NV UNSP ADR EA REPR 0.50 ORD",
+"t" : "SIETY",
+"e" : "OTCMKTS",
+"l" : "22.13",
+"c" : "0.00",
+"mc" : "2.45B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "7852390",
+"name" : "Carrier Alliance Holdings Inc",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+]
+, "summary" : [{
+"reuters_url" : "http:\x2F\x2Fstocks.us.reuters.com\x2Fstocks\x2FfullDescription.asp?rpc=66\x26symbol=AAP",
+"address": "5008 Airport Rd NW, ROANOKE, VA 24012-1601, United States",
+"phone": "+1-540-3624911",
+"fax": "+1-302-6745266",
+"url": "http:\x2F\x2Fadvanceautoparts.com",
+"overview" : "Advance Auto Parts, Inc. is a provider of automotive aftermarket parts. The company\x27s stores and branches offer a selection of brand name, original equipment manufacturer (OEM) and private label automotive replacement parts, accessories, batteries and maintenance items for domestic and imported cars, vans, sport utility vehicles and light and heavy duty trucks. The company serves its do-it-for-me (commercial) customers and do-it-yourself (DIY) customers through a variety of channels ranging from traditional brick and mortar store locations to self-serving e-commerce sites. As of January 3, 2015, the Company\x27s operations are comprised of 5,261 stores and 111 distribution branches, which operate in the United States, Canada, Puerto Rico and the United States Virgin Islands primarily under the trade names Advance Auto Parts, Carquest, Autopart International and Worldpac."
+} ]
+, "management" : [
+{
+"name" : "John C. Brouillard",
+"age" : "66",
+"title" : "Executive Chairman of the Board"
+}
+,
+{
+"name" : "George E. Sherman",
+"age" : "53",
+"title" : "President"
+}
+,
+{
+"name" : "Thomas R. Greco",
+"age" : "57",
+"title" : "Chief Executive Officer, Director"
+}
+,
+{
+"name" : "Michael A. Norona",
+"age" : "51",
+"title" : "Chief Financial Officer, Executive Vice President, Assistant Secretary"
+}
+,
+{
+"name" : "O. Temple Sloan III",
+"age" : "54",
+"title" : "President - GPI and Director"
+}
+,
+{
+"name" : "Tammy M. Finley",
+"age" : "48",
+"title" : "Executive Vice President - Human Resources, General Counsel, Corporate Secretary"
+}
+,
+{
+"name" : "Charles E. Tyson",
+"age" : "53",
+"title" : "Executive Vice President - Merchandising, Marketing \x26 Supply Chain"
+}
+,
+{
+"name" : "Jill A. Livesay",
+"age" : "46",
+"title" : "Senior Vice President, Chief Accounting Officer, Controller"
+}
+,
+{
+"name" : "William H Carter",
+"age" : "44",
+"title" : "Senior Vice President - Business Development and Integration"
+}
+,
+{
+"name" : "Todd Greener",
+"title" : "Senior Vice President - Supply Chain"
+}
+]
+,"moreresources" : [
+{ "name" : "Estimates" , "url" : "http:\x2F\x2Fwww.marketwatch.com\x2Ftools\x2Fquotes\x2Fsnapshot.asp?symb=AAP\x26pg=analyst"},
+{ "name" : "SEC Filings" , "url" : "http:\x2F\x2Fgoogle.brand.edgar-online.com\x2F?sym=AAP"},
+{ "name" : "Major Holders" , "url" : "http:\x2F\x2Finvesting.money.msn.com\x2Finvestments\x2Finstitutional-ownership?symbol=AAP"}
+,
+{ "name" : "Options" , "url" : "http:\x2F\x2Fwww.marketwatch.com\x2Ftools\x2Fquotes\x2Foptions1.asp?symb=AAP"},
+{ "name" : "Research" , "url" : "http:\x2F\x2Ffinance.yahoo.com\x2Fq\x2Frr?s=AAP"}
+]
+, "events" : [
+]
+}]
