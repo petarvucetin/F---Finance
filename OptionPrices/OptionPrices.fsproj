@@ -53,10 +53,11 @@
     <None Include="Script.fsx" />
     <None Include="Helpers.fsx" />
     <None Include="DiffSharp.fsx" />
-    <None Include="BlackSholes1.fsx" />
     <None Include="QuantLibTests.fsx" />
     <None Include="John Orford.fsx" />
     <None Include="Introducing QuantLib - Option Theory and Pricing.fsx" />
+    <None Include="Yahoo.fsx" />
+    <None Include="Analyzing Stock Markets.fsx" />
   </ItemGroup>
   <PropertyGroup>
     <MinimumVisualStudioVersion Condition="'$(MinimumVisualStudioVersion)' == ''">11</MinimumVisualStudioVersion>
