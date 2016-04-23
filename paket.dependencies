@@ -1,5 +1,6 @@
 source https://www.nuget.org/api/v2
 nuget DiffSharp
+nuget FSharp.Charting
 nuget fsharp.data
 nuget MathNET.Numerics
 nuget NQuantLib.dll

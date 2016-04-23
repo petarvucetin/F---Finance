@@ -4,6 +4,7 @@ NUGET
     Baseclass.Contrib.Nuget.Output (2.1)
     DiffSharp (0.7.7)
       FSharp.Quotations.Evaluator (>= 1.0.6)
+    FSharp.Charting (0.90.14)
     FSharp.Data (2.2.5)
       Zlib.Portable (>= 1.10) - framework: portable-net40+sl50+wp80+win80
     FSharp.Quotations.Evaluator (1.0.7)

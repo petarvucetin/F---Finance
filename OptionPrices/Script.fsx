@@ -104,10 +104,5 @@ let stockInfo = stock.Load(stockUrl "AAPL")
 grid optionPrice 
 //wpfGrid optionPrice 
 
-let sideBySide = (verticals optionPrice 1)
-
-sideBySide 
-    |>     
-
 grid (verticals optionPrice 1)
 //wpfGrid (verticals optionPrice 2)
